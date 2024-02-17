@@ -1,7 +1,7 @@
 # Exercício do curso de Python - Senai🚀
-O Usuario informa a quantidade de clientes no pedido
-O cliente escolhe 1 prato e uma bebida
-Exibe os detalhes do pedido
+O Usuario informa a quantidade de clientes no pedido<br>
+O cliente escolhe 1 prato e uma bebida<br>
+Exibe os detalhes do pedido<br>
 Utilizar o while
 
 
