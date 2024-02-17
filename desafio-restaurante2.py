@@ -11,6 +11,7 @@ bebidas_escolhidas = []
 pratos = ['Bife', 'Frango', 'Peixe']
 bebidas =  ['Refrigerante', 'Suco', 'Agua']
 
+# o usuario informa a quantidade de pessoas no pedido
 pessoas = int(input('Quantidade de pessoas no pedido>> '))
 
 while n <= pessoas:
